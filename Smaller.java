@@ -1,3 +1,4 @@
+// Welcome to Smaller
 import java.util.Scanner;
 
 public class Smaller {
